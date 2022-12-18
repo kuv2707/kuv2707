@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kuv2707
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node-JS
-- 💞️ I’m looking to collaborate on nothing as I have exams.
+- 💞️ I’m looking to collaborate on idk what
 - 📫 How to reach me:
 email: kislayuv27@gmail.com  , 
  insta: kuv2707
