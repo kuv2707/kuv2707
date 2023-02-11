@@ -3,7 +3,7 @@
 ![GitHub Logo](/images/java.png)
 
 
-![GitHub Logo](/images/hcj.png)
+![GitHub Logo](/images/webtrio.png)
 #### 👀 I’m interested in Web Development
   - 🌱 I’m currently learning
   
