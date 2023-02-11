@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Node-JS
 - 💞️ I’m looking to collaborate on idk what
 - 📫 How to reach me:
-email: kislayuv27@gmail.com  , 
- insta: kuv2707
+-email: kislayuv27@gmail.com  , 
+-insta: kuv2707
 
 
 <!---
