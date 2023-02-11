@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @kuv2707
 #### 📒I currently know:
 - ![GitHub Logo](/images/java.png)
-- ![GitHub Logo](/images/html.png)
-- ![GitHub Logo](/images/css.png)
-- ![GitHub Logo](/images/js.png)
+- ![GitHub Logo](/images/hcj.png)
 #### 👀 I’m interested in Web Development
   - 🌱 I’m currently learning Node-JS
 #### 📫Here's how to reach me:
