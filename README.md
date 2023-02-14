@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @kuv2707
+# 👋 Hi there, I’m @kuv2707
 #### 📒I currently know:
 ![GitHub Logo](/images/java.png)
 
