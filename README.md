@@ -1,16 +1,16 @@
 # 👋 Hi there, I’m @kuv2707
 #### 📒I currently know:
-![GitHub Logo](/images/java.png)
+![Java](/images/java.png)
 
 
-![GitHub Logo](/images/webtrio.png)
+![HTML-CSS-JS](/images/webtrio.png)
 #### 👀 I’m interested in Web Development
   - 🌱 I’m currently learning
   
-  ![GitHub Logo](/images/nodejs.png)
+  ![Node-JS](/images/nodejs.png) ![mongoDB](/images/mongodb.png)
 #### 📫Here's how to reach me:
 - email: kislayuv27@gmail.com   
-- instagram: kuv2707
+- instagram: kuv2707 
 
 
 <!---
