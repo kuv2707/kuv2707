@@ -1,13 +1,16 @@
 # 👋 Hi there, I’m @kuv2707
 #### 📒I currently know:
 ![Java](/images/java.png)
-
-
-![HTML-CSS-JS](/images/webtrio.png)
-#### 👀 I’m interested in Web Development
+![React](/images/react.svg)
+![Node-JS](/images/nodejs.png) ![mongoDB](/images/mongodb.png)
+#### 👀 I’m interested in Web Development and Machine Learning
   - 🌱 I’m currently learning
+  ![GraphQL](/images/graphQL.svg)
+  ![Firebase](/images/firebase.svg)
+
+#### I also do a bit of competitive programming
+My codeforces handle: [kuv_2707](https://codeforces.com/profile/kuv_2707)
   
-  ![Node-JS](/images/nodejs.png) ![mongoDB](/images/mongodb.png)
 #### 📫Here's how to reach me:
 - email: kislayuv27@gmail.com   
 - instagram: kuv2707 
