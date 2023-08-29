@@ -2,18 +2,34 @@
 
 #### 📒I currently know:
 
-<img src="/images/java.png" alt="Java" width="100" height="100">
-<img src="/images/react.svg" alt="React" width="100" height="100">
-<img src="/images/nodejs.png" alt="Node-JS" width="100" height="100">
-<img src="/images/django.svg" alt="Django" width="100" height="100">
-<img src="/images/mongodb.png" alt="mongoDB" width="100" height="100">
-<img src="/images/mySQL.svg" alt="mySQL" width="100" height="100">
+<div style="display: inline-block;">
+  <img src="/images/java.png" alt="Java" width="100" height="100">
+</div>
+<div style="display: inline-block;">
+  <img src="/images/react.svg" alt="React" width="100" height="100">
+</div>
+<div style="display: inline-block;">
+  <img src="/images/nodejs.png" alt="Node-JS" width="100" height="100">
+</div>
+<div style="display: inline-block;">
+  <img src="/images/django.svg" alt="Django" width="100" height="100">
+</div>
+<div style="display: inline-block;">
+  <img src="/images/mongodb.png" alt="mongoDB" width="100" height="100">
+</div>
+<div style="display: inline-block;">
+  <img src="/images/mySQL.svg" alt="mySQL" width="100" height="100">
+</div>
 
 #### 👀 I’m interested in Web Development and Machine Learning
 
 - 🌱 I’m currently learning
-<img src="/images/graphQL.svg" alt="GraphQL" width="100" height="100">
-<img src="/images/firebase.svg" alt="Firebase" width="100" height="100">
+<div style="display: inline-block;">
+  <img src="/images/graphQL.svg" alt="GraphQL" width="100" height="100">
+</div>
+<div style="display: inline-block;">
+  <img src="/images/firebase.svg" alt="Firebase" width="100" height="100">
+</div>
 
 #### I also do a bit of competitive programming
 
