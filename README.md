@@ -2,7 +2,9 @@
 #### 📒I currently know:
 ![Java](/images/java.png)
 ![React](/images/react.svg)
-![Node-JS](/images/nodejs.png) ![mongoDB](/images/mongodb.png)
+![Node-JS](/images/nodejs.png) ![Django](/images/django.svg) 
+![mongoDB](/images/mongodb.png)
+![mySQL](/images/mySQL.svg)
 #### 👀 I’m interested in Web Development and Machine Learning
   - 🌱 I’m currently learning
   ![GraphQL](/images/graphQL.svg)
