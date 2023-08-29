@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning
 | GraphQL | Firebase |
 |---------|----------|
-| ![GraphQL](/images/graphQL.svg) | ![Firebase](/images/firebase.svg) |
+| ![GraphQL](/images/graphQL.svg)| ![Firebase](/images/firebase.svg) |
 
 #### I also do a bit of competitive programming
 
