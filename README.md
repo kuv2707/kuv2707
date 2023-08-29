@@ -4,7 +4,7 @@
 
 | Java | React | Node-JS | Django | mongoDB | mySQL |
 |------|-------|---------|--------|---------|-------|
-| ![Java](/images/java.png) | ![React](/images/react.svg) | ![Node-JS](/images/nodejs.png) | ![Django](/images/django.svg) | ![mongoDB](/images/mongodb.png) | ![mySQL](/images/mySQL.svg) |
+| ![Java](/images/java.png) | ![React](/images/react.svg) | ![Node-JS](/images/nodejs.png) | ![Django](/images/django.png) | ![mongoDB](/images/mongodb.png) | ![mySQL](/images/mySQL.svg) |
 
 #### 🤹‍♂️ I’m skilled in Web Development 
 
