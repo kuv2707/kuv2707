@@ -15,6 +15,7 @@
 | ![GraphQL](/images/graphQL.svg) | ![Firebase](/images/firebase.svg) | ![Typescript](/images/typescript.svg) 
 
 #### 👀 I'm interested in Machine Learning
+- I am currently learning regression and classification models
 
 #### I also do a bit of competitive programming
 
