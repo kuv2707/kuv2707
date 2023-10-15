@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://kuv2707.hashnode.dev/](https://kuv2707.hashnode.dev/)
 
-- 💬 Ask me about **React, NodeJS**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **kislayuv27@gmail.com**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/@kislayuv27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kislayuv27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kislay-verma-147614256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kislay-verma-147614256" height="30" width="40" /></a>
-<a href="https://instagram.com/@kuv_2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kuv_2707" height="30" width="40" /></a>
+<a href="https://instagram.com/kuv_2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@kuv_2707" height="30" width="40" /></a>
 <a href="https://hashnode.com/@kuv2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@kuv2707" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kuv_2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kuv_2707" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kuv2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kuv2707" height="30" width="40" /></a>
