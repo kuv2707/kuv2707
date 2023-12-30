@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuv2707" alt="kuv2707" /></a> </p>
 
-- 🌱 I’m currently learning **GraphQL, Golang, Vue.JS**
+- 🌱 I’m currently learning **Rust, Golang, Machine Learning**
 
-- 📝 I regularly write articles on [https://kuv2707.hashnode.dev/](https://kuv2707.hashnode.dev/)
+- 📝 I sometimes write articles on [https://kuv2707.hashnode.dev/](https://kuv2707.hashnode.dev/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN  stack**
 
 - 📫 How to reach me **kislayuv27@gmail.com**
 
