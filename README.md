@@ -7,8 +7,7 @@
 
 -   🌱 I’m currently learning **Backend in rust**
 
--   📝 I regularly write articles on [https://kuv2707.hashnode.dev/](https://kuv2707.hashnode.dev/)
-
+- 📝 I sometimes write articles on [https://kuv2707.hashnode.dev/](https://kuv2707.hashnode.dev/)
 
 -   📫 How to reach me **kislayuv27@gmail.com**
 
