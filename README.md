@@ -16,7 +16,7 @@
 <h3 align="left">Some really cool personal projects:</h3>
 
 - [he++](https://github.com/kuv2707/he-plus-plus), a toy language written in Golang
-- [RICE](https://github.com/kuv2707/chess-engine-rust), a chess engine written in Rust
+- [RICE](https://github.com/kuv2707/chess-engine), a chess engine written in Rust
 
 
 <h3 align="left">Find me on:</h3>
