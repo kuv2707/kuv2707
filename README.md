@@ -9,7 +9,7 @@
 
 -   📫 How to reach me **kislayuv27@gmail.com**
 
--   🖥️ I participated in Google Summer of Code 2024 ([read here](https://kuv2707.hashnode.dev/the-gsoc-experience-feat-zulip)) and have been involved in Open Source since then.
+-   🖥️ I participated in Google Summer of Code 2024 ([read here](https://kuv2707.hashnode.dev/the-gsoc-experience-feat-zulip)) and have been involved in Open Source since then
 -   ⚡ Fun fact **I can speak 6 languages**
 
 <h3 align="left">Some personal projects I find cool:</h3>
